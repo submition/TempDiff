@@ -1,6 +1,9 @@
 # *TempDiff: Enhancing Temporal-awareness in Latent Diffusion for Real-world Video Super-resolution*
 Visual Results Comparison: TecoGAN vs Ours
-https://github.com/submition/TempDiff/issues/2#issue-2416181038
+VideoLQ dataset Sequence 007:
+
+https://github.com/user-attachments/assets/6c6d892c-e693-4e23-8ed0-d0fe73dc71ce
+
 
 ### Testing
 Download the pretrained diffusion denoising U-net and video variational autoencoder from [[BaiduNetDisk]()]. Download the VideoLQ dataset following the links [here](https://github.com/ckkelvinchan/RealBasicVSR). Please update the ckpt_path, load_path and dataroot_gt paths in config files. 
