@@ -13,7 +13,7 @@ VideoLQ dataset Sequence 033:
 https://github.com/user-attachments/assets/224c2eb5-4581-4913-b096-97a54f844d6b
 
 Visual comparison for Color Shift: SD vs Ours
-![image](https://github.com/submition/TempDiff/blob/main/color_shift.pdf)
+![image](https://github.com/submition/TempDiff/blob/main/color_shift.png)
 
 
 ### Testing
